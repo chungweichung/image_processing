@@ -1,0 +1,9 @@
+{
+    //"C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "C_Cpp.default.includePath": [
+        "/opt/homebrew/Cellar/opencv/4.10.0_6/lib/",
+        "/opt/homebrew/Cellar/opencv/4.10.0_6/include/"
+    ],
+    "C_Cpp.autoAddFileAssociations": false
+}
